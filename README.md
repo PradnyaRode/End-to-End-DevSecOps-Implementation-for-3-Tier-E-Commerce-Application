@@ -1,6 +1,4 @@
 HEAD
-# End-to-End-DevSecOps-Implementation-for-3-Tier-E-Commerce-Application
-
 # Three-Tier Web Application Deployment on AWS EKS using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins
 
 ![Three-Tier Banner](assets/Project-Overview.gif)
